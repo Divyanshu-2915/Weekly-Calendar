@@ -1,0 +1,16 @@
+#calendar-box{
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+}
+
+td{
+  flex: 1;
+  border: '1px solid #ddd';
+  padding: "10px";
+  text-align: 'center';
+   background-color: 'transparent',
+} 
